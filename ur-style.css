@@ -1,0 +1,31 @@
+/* Ultimate Reset Style | v0.1.0 | MIT License | https://github.com/Hyper-Z11/ur-style */
+
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font: inherit;
+  background: inherit;
+  border: inherit;
+  vertical-align: baseline;
+  line-height: 1;
+  text-decoration: inherit;
+  color: inherit;
+  text-align: left;
+}
+
+ol, ul, details, summary {
+  list-style: none;
+}
+
+*::before,*::after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+	border-spacing: 0;
+}
