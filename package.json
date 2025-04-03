@@ -1,0 +1,22 @@
+{
+  "name": "ur-style",
+  "version": "0.1.0",
+  "description": "Reset All Element to **Zero Style**. Inspired & fork by **Eric Meyer's Reset**.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyper-Z11/ur-style.git"
+  },
+  "keywords": [
+    "CSS",
+    "CSS Reset"
+  ],
+  "author": "Hyper-Z11",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hyper-Z11/ur-style/issues"
+  },
+  "homepage": "https://github.com/Hyper-Z11/ur-style#readme"
+}
