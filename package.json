@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "description": "Reset All Element to **Zero Style**. Inspired & fork by **Eric Meyer's Reset**.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format:css": "npx prettier -w *.css"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Hyper-Z11/ur-style/issues"
   },
-  "homepage": "https://github.com/Hyper-Z11/ur-style#readme"
+  "homepage": "https://github.com/Hyper-Z11/ur-style#readme",
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
 }
