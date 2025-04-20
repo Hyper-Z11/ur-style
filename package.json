@@ -4,7 +4,7 @@
   "description": "Reset All Element to Zero Style. Inspired & fork by Eric Meyer's Reset.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "format": "prettier -w ur-style.css"
+    "format": "prettier -w styles/"
   },
   "repository": {
     "type": "git",
